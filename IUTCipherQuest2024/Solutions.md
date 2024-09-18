@@ -135,13 +135,17 @@ Ans : ***CQ2024{Rotterdam}***
 
 ### Question 5
 ---
+A stranger light has been seen flickering at the men's hall. Devout followers of Batash Khan whispers that it could be a sign, while others dismiss it as nothing more than students playing tricks. What could the truth be?
+
+https://www.youtube.com/watch?v=AMYbPWp2-LQ
 
 
 ##### Walkthrough
 ---
 
+If you watch the video, it is basically a morse code. You have to decode it. You will find a twitter account.
 
-Ans : ***CQ2024{x.com/BilaiIlish}***
+Ans : ***x.com/BilaiIlish
 
 
 
