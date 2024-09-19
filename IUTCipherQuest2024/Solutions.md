@@ -42,7 +42,7 @@ Lost in a sea of symbols, a hidden message awaits discovery. Armed with only 8 c
 ---
 
 
-If you search this lines in online, they refers to a programming language called Brainfuck cipher. It is basically an esoteric programming language.
+If you search this lines online, they refers to a programming language called Brainfuck cipher. It is basically an esoteric programming language.
 
 ![](images/Pasted%20image%2020240919011509.png)
 
@@ -79,7 +79,7 @@ Ans : ***29/10/2001***
 ![](images/Pasted%20image%2020240919011835.png)
 
 
-Also there is a number on the floor infront of the plaque, *101*
+Also there is a number on the floor infront of the plaque, *101*. This hint is given in the question.
 
 
 ![](images/Pasted%20image%2020240919012054.png)
@@ -104,7 +104,7 @@ You are looking for a shiny European city!
 
 This type of problem is called OSINT, Open Source Intelligence, an analysis of data gathered from open sources.
 
-Seeing this photo, what you can do is that search it in Google image search which is a powerful image search tool.
+After Seeing this type of question, what you can do is that search it in Google image search which is a powerful image search tool.
 
 
 
@@ -199,7 +199,7 @@ Let's again ask ***decode.fr***
 ![](images/Pasted%20image%2020240919013942.png)
 
 
-Bingo! It says it is a **Alphuck Cipher**. Let's decrypt it.
+Bingo! It says it is **Alphuck Cipher**. Let's decrypt it.
 
 
 ![](images/Pasted%20image%2020240919014045.png)
@@ -291,7 +291,7 @@ This suggests that our cipher is betamaze.
 ![](images/Pasted%20image%2020240919021401.png)
 
 
-Let's go to `decode.fr` and search for Betamaze cipher and decrypt it.
+You can click on this link.
 
 ![](images/Pasted%20image%2020240919021526.png)
 
@@ -341,16 +341,16 @@ Ans : ***CQ2024{Go behind the Academic Building 2}***
 ### Question 10
 ---
 
-261c1ffe78107cd2bdeddeaa151be92b
-43d9e2061ebd7250cc5156949b9bb661
-3d42489164ea38765291da76934d504d
-78949a75178ddd3c0c73cfcd5475d75a
+`261c1ffe78107cd2bdeddeaa151be92b
+`43d9e2061ebd7250cc5156949b9bb661`
+`3d42489164ea38765291da76934d504d`
+`78949a75178ddd3c0c73cfcd5475d75a`
 
 ##### Walkthrough
 ---
 
 
-These are hash values. If you ask Chatgpt, it will tell you this.
+These are hash values. If you ask `Chatgpt`, it will tell you this.
 
 ![](images/Pasted%20image%2020240919022818.png)
 

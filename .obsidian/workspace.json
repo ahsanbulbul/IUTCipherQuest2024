@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "052257ef5c5f1fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "114219145168a2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8588c20598339ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IUTCipherQuest2024/Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "730196166269bd6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6450a1617d8582cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8165d941ae137c20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a091975a306f19b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44b49184f1875ebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a77c100cde5327f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e1dad9f2702674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64f9d52e896e53e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IUTCipherQuest2024/Solutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ead0276d56a026",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IUTCipherQuest2024/Solutions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d007139e6133a7f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5f3dbe37fe215b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IUTCipherQuest2024/Solutions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8588c20598339ab8",
+  "lastOpenFiles": [
+    "IUTCipherQuest2024/images/YT.png",
+    "IUTCipherQuest2024/images/X.png",
+    "IUTCipherQuest2024/images/Q5.mp4",
+    "IUTCipherQuest2024/images/PostOnX.png",
+    "IUTCipherQuest2024/images/Comment.png"
+  ]
+}
