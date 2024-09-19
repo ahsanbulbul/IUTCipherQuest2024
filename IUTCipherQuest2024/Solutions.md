@@ -137,23 +137,42 @@ Ans : ***CQ2024{Rotterdam}***
 ---
 A stranger light has been seen flickering at the men's hall. Devout followers of Batash Khan whispers that it could be a sign, while others dismiss it as nothing more than students playing tricks. What could the truth be?
 
-https://www.youtube.com/watch?v=AMYbPWp2-LQ
+`https://www.youtube.com/watch?v=AMYbPWp2-LQ`
+
+
+https://github.com/user-attachments/assets/a45e53d1-2375-4b06-9e34-fc00e11a1d09
 
 
 ##### Walkthrough
 ---
+Going to the URL, a video loads with the following description:
 
-If you watch the video, it is basically a morse code. You have to decode it. You will find a twitter account.
+![](images/YT.png)
 
-Ans : x.com/BilaiIlish
+The code represented by the blinking lights in the video is from a very well-known coding system. Nevertheless, it can be difficult to identify without some prior knowledge.
+
+If you go the comments section...
+
+![](images/Comment.png)
+
+And there's the hint. 
 
 
-
+After decoding the morse code, it will give: `x.com/bilaiilish` as the solution, which leads to the next question.
 
 
 ### Question 6
 ---
 
+visiting the X profile, you'll get 
+
+![](images/X.png)
+
+In the post section, there is an image posted with nothing else.
+
+![](images/PostOnX.png)
+
+This is a guard post beside the medical center. You'll find the next question there:
 
 Follower of Batash Khan says he had mystic powers. But when researching, all that the archeologists could find in the ancient relics were:
 `eeeeeeeeeepaeaeeeaeeeeeeeaeeeeeeeeeeccccisaaaiiijeeeeeeeeeeeeeejceeeeeeeeeeeeeeeeeeeejiijeejeejaaeeeeeeeeeeeeeeeeeeeeeeejceejaiiiiiiiiiiiiiiiiiijeeejiiiiiiijeeeeeeeeejeeeeeejcciiiiiiiiiiiiiiiiiiiijaaiiiiiiiiiiiiijeejiiiiiiiijeeeeeeeeeeeeejeeeeeejccjaaeeejiiiiiiiiiiiiiijeeeeeeeeeeejiiiiiiiiiiiijccjaaeeeeeeeeeeejiiijiiiiiiijeeeeejjiiiiijeeeeejiiiiiiijccjaaiiiiiijeeeeeeeeeeeeeeeeejiiiiijeeeeeejcceeeeeeeeeeeejiiiiiiiiiiiijaeeeeeeeeeeeeeeeejiijaiiijeeeejejiiijceeeeeeeejaiiiijciijcjaaeeeeeeeeejceejeeeeejiiiiiiiiiijceeeeeeejaaiiiijcciiiiiiijaeeejiijaiiiiijeeeeeejceeeeeeejiiiiiiijcjaiijeeeeejiiiiiiijaiijiiiiijeeeeeejeeeeeeeeeej`
